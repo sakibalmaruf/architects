@@ -169,7 +169,7 @@ margin-right: 70px;
     width: 120px;
     height: 60px;
     text-align: center;
-    margin-left: 720px;
+    margin-left: 710px;
     
     background: #FF900E;
     border-radius: 8px;
@@ -181,3 +181,67 @@ margin-right: 70px;
   .ex{
     font-size: x-large;
   }
+/* some  */
+.some{
+  margin-top: 80px;
+  font-weight: 700;
+  margin-left: 270px;
+}
+.some-text{
+  margin-left: 270px;
+  font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #727272;
+}
+
+/* Award  */
+.work{
+
+}
+
+.work{
+  display: flex;
+  justify-content: space-around;
+border-radius: 8px;
+margin-left: 195px;
+margin-right: 70px;
+margin-top: 60px;
+}
+.award{
+  box-sizing: border-box;
+  border: 1px solid #FF900E;
+  border-radius: 8px;
+  text-align: center;
+}
+/* Sponsors */
+.sponsors{
+  margin-top: 80px;
+  margin-left: 550px;
+  margin-right: 350px;
+  text-align: center;
+
+}
+.sponsors-text{
+  margin-top: 15px;
+}
+.sponsors-pic{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 180px;
+  margin-right: 80px;
+  margin-top: 50px;
+}
+.footer{
+  margin-top: 50px;
+  margin-left: 180px;
+  margin-right: 280px;
+  width: 1060px;
+  height: 20px;
+  background: #FFF4E7;
+  border-radius: 8px;
+  text-align: center;
+  padding-top: 15px;
+}
