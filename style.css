@@ -50,10 +50,10 @@ margin-right: 70px;
   text-align: center;
  }
  .btn{
-  width: 180px;
-  height: 64px;
-  margin-top: 30px;
-  margin-left: 163px;
+  width: 120px;
+  height: 40px;
+  margin-top: 25px;
+  margin-left: 185px;
   background-color: #fd6e0a;
   color: white;
   font-weight: 700;
@@ -78,14 +78,25 @@ margin-right: 70px;
 }
 .sub-banner-text{
   margin-top: 180px;
+  margin-right: 85px;
+  margin-left: 0px;
 }
 .sub-banner-btn{
-  width: 180px;
-  height: 64px;
-  margin-top: 30px;
+  width: 120px;
+  height: 40px;
+  margin-top: 25px;
   background-color: #fd6e0a;
   color: white;
   font-weight: 700;
   border-radius: 5px;
   border-style: hidden;
 }
+.s-1{
+  color: #727272
+  ;
+}
+.s-2{
+  color: #fd6e0a;
+}
+
+   /*  */
