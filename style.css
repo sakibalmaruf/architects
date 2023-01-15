@@ -169,7 +169,7 @@ margin-right: 70px;
     width: 120px;
     height: 60px;
     text-align: center;
-    margin-left: 710px;
+    margin-left: 700px;
     
     background: #FF900E;
     border-radius: 8px;
@@ -245,3 +245,11 @@ margin-top: 60px;
   text-align: center;
   padding-top: 15px;
 }
+/* media Quaries  */
+/* mobile devices */
+@media only screen and (max-width:688px) {
+ .header-section{
+  grid-template-columns: repeat(1, 1fr);
+ }
+
+  }
