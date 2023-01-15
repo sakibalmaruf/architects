@@ -248,8 +248,13 @@ margin-top: 60px;
 /* media Quaries  */
 /* mobile devices */
 @media only screen and (max-width:688px) {
- .header-section{
-  grid-template-columns: repeat(1, 1fr);
- }
-
-  }
+.header{
+  margin-left: -50px;
+  display:grid
+}
+.body-title{
+  margin: 0;
+  margin-left: -460px;
+}
+}
+  
