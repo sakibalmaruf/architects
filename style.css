@@ -77,14 +77,16 @@ margin-right: 70px;
   margin-right: px;
 }
 .sub-banner-text{
-  margin-top: 180px;
+  margin-top: 150px;
   margin-right: 85px;
   margin-left: 0px;
+  color: #727272
+
 }
 .sub-banner-btn{
   width: 120px;
   height: 40px;
-  margin-top: 25px;
+  margin-top: 15px;
   background-color: #fd6e0a;
   color: white;
   font-weight: 700;
@@ -99,4 +101,83 @@ margin-right: 70px;
   color: #fd6e0a;
 }
 
-   /*  */
+   /* sub banner 2 */
+   .sub-banner-2{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 250px;
+    margin-right: 250px;
+    justify-content: space-between;
+    text-align: left;
+    background-color: #fdfdfd;
+
+   }
+   .dmv{
+    width: 460px;
+    height: 111px;
+    margin-top: 25px;
+    margin-left: 30px;
+    text-shadow: 5px;
+    color: #727272;
+    background: #fffcfc;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+
+   }
+   .ddb{
+    width: 460px;
+    height: 111px;
+    margin-top: 25px;
+    margin-left: 30px;
+    text-shadow: 5px;
+    color: #727272;
+    background: #fffcfc;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+   }
+
+  .amd{
+    width: 460px;
+    height: 111px;
+    margin-top: 25px;
+    margin-left: 30px;
+    text-shadow: 5px;
+    color: #727272;
+    background: #fffcfc;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+  }
+
+  .sete{
+    width: 460px;
+    height: 111px;
+    margin-top: 25px;
+    margin-left: 30px;
+    text-shadow: 5px;
+    color: #727272;
+    background: #fffcfc; 
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+
+  }
+  .sbthc{
+    color: black;
+  }
+  /* pic div */
+
+  .pic-div{
+    width: 120px;
+    height: 60px;
+    text-align: center;
+    margin-left: 720px;
+    
+    background: #FF900E;
+    border-radius: 8px;
+    color: #fdfdfd;
+    font-weight: 700;
+
+  }
+
+  .ex{
+    font-size: x-large;
+  }
